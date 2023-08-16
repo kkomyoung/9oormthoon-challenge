@@ -1,9 +1,10 @@
-### 도전 기간
+# 구름톤 챌린지
+구름 LEVEL과 함께 매일매일 알고리즘 문제 풀기!
+
+#### 도전 기간
 2023.08.14 ~ 2023.09.10
 
-<br />
-
-### 사용 언어
+#### 사용 언어
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br />
