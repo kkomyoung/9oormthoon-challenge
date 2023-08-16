@@ -1,47 +1,16 @@
-```
-┌───────────────────────────────────────────────┐
-                                       _       
-     __ _  ___   ___  _ __ _ __ ___   (_) ___  
-    / _` |/ _ \ / _ \| '__| '_ ` _ \  | |/ _ \ 
-   | (_| | (_) | (_) | |  | | | | | |_| | (_) |
-    \__, |\___/ \___/|_|  |_| |_| |_(_)_|\___/ 
-    |___/                                      
-			     🌩 𝘼𝙣𝙮𝙤𝙣𝙚 𝙘𝙖𝙣 𝙙𝙚𝙫𝙚𝙡𝙤𝙥!
-└───────────────────────────────────────────────┘
-```
+### 도전 기간
+2023.08.14 ~ 2023.09.10
 
-# goormIDE
-Welcome to goormIDE!
+<br />
 
-goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams.  
-**DEVELOP WITH EXCELLENCE**  
+### 사용 언어
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-`Happy coding! The goormIDE team`
+<br />
 
-
-## 🔧 Tip & Guide
-
-* Command feature
-	* You can simply run your script using the shortcut icons on the top right.
-	* Check out `PROJECT > Common/Build/Run/Test/Find Command` in the top menu.
-	
-* Get URL and Port
-	* Click `PROJECT > URL/PORT` in top menu bar.
-	* You can get default URL/Port and add URL/Port in the top menu.
-
-* Useful shortcut
-	
-| Shortcuts name     | Command (Mac) | Command (Window) |
-| ------------------ | :-----------: | :--------------: |
-| Copy in Terminal   | ⌘ + C         | Ctrl + Shift + C |
-| Paste in Terminal  | ⌘ + V         | Ctrl + Shift + V |
-| Search File        | ⌥ + ⇧ + F     | Alt + Shift + F  |
-| Terminal Toggle    | ⌥ + ⇧ + B     | Alt + Shift + B  |
-| New Terminal       | ⌥ + ⇧ + T     | Alt + Shift + T  |
-| Code Formatting    | ⌥ + ⇧ + P     | Alt + Shift + P  |
-| Show All Shortcuts | ⌘ + H         | Ctrl + H         |
-
-## 💬 Support & Documentation
-
-Visit [https://ide.goorm.io](https://ide.goorm.io) to support and learn more about using goormIDE.  
-To watch some usage guides, visit [https://help.goorm.io/en/goormide](https://help.goorm.io/en/goormide)
+### 🔥 도전 과제 🔥
+|  코드  | 문제                                                                                                                                        |    유형    |
+| :---:  | :---------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
+| [Day1](https://github.com/kkomyoung/9oormthoon-challenge/blob/master/Week1/Day1/solution.py)| [운동 중독 플레이어](https://level.goorm.io/exam/195683/%EC%9A%B4%EB%8F%99-%EC%A4%91%EB%8F%85-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4/quiz/1)     |   구현   |
+| [Day2](https://github.com/kkomyoung/9oormthoon-challenge/blob/master/Week1/Day2/solution.py)| [프로젝트 매니징](https://level.goorm.io/exam/195684/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%A4%EB%8B%88%EC%A7%95/quiz/1)               |   구현    |
+| [Day3](https://github.com/kkomyoung/9oormthoon-challenge/blob/master/Week1/Day3/solution.py)| [합 계산기](https://level.goorm.io/exam/195685/%ED%95%A9-%EA%B3%84%EC%82%B0%EA%B8%B0/quiz/1)                                                                     |   구현    |
