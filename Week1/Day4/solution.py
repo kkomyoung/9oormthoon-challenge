@@ -10,10 +10,10 @@ leftPart = []
 rightPart = []
 
 for idx, val in enumerate(K):
-	if idx < biggestIndex:
-		leftPart.append(val)
-	elif idx > biggestIndex:
-		rightPart.append(val)
+    if idx < biggestIndex:
+        leftPart.append(val)
+    elif idx > biggestIndex:
+        rightPart.append(val)
 
 # 4. 오른쪽 요소의 배열은 반전해준다.
 rightPart.reverse()
@@ -21,6 +21,6 @@ rightPart.reverse()
 # 5. 배열과 오름차순으로 정렬한 배열의 값이 동일할 경우에만 K 배열의 값을 더해준다.
 # 동일하지 않을 경우 0을 출력한다.
 if leftPart == sorted(leftPart) and rightPart == sorted(rightPart):
-	print(sum(K))
+    print(sum(K))
 else:
-	print(0)
+    print(0)
